@@ -1,0 +1,8 @@
+protection		the unit cant dealt damage
+trample			the unit ignore enemy armor
+assault			the unit attack before others units
+counterAttack	the unit dealt damage to attacking enemy unit
+exaust			the unit cant attack
+reflectDamage	the unit reflect the damage back to the attacker
+
+N.B le unita non meelee non possono attaccare a meno che specificato dalla carta
